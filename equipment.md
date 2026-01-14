@@ -171,27 +171,76 @@ Bạn có đủ bộ (Đèn + Trigger + Chân đèn). Vậy khi nào dùng cái 
 -   **Hiệu quả**: Ánh sáng sẽ chiếu xiên, tạo bóng đổ nhẹ ở cánh mũi (Rembrandt Light), nhìn cực kỳ nghệ thuật và chuyên nghiệp.
 
 ### 4. Góc Chụp "Độc": Từ Trên Cao Chụp Xuống Hồ
-Bạn hỏi: *"Muốn đứng từ trên cao chụp xuống mẫu dưới hồ có được không?"*
-Trả lời: **RẤT ĐƯỢC!** Góc này sẽ lấy được toàn cảnh mặt nước và bóng phản chiếu.
+Bạn hỏi: *"Mẫu ngước lên nhìn tôi, sợ dưới đó chật không có chỗ đặt đèn đánh vào mặt mẫu?"*
 
-👉 **Cách Setup Đèn (Chiêu này cần Trigger)**:
-1.  **Vị trí Máy (Bạn)**: Bạn đứng ở trên lầu/ban công cao. Gắn **Trigger** lên máy.
-2.  **Vị trí Đèn (V1)**:
-    *   Bạn **KHÔNG** cầm đèn theo (vì xa quá đèn đánh không tới/không đẹp).
-    *   Bạn để đèn V1 trên chân đèn, **đặt ở dưới đất, gần chỗ mẫu đứng** (cách 2 mét).
-    *   Chỉnh đầu đèn hướng lên mặt mẫu.
-3.  **An Toàn (Cực Quan Trọng)**:
-    *   Vì để đèn gần hồ nước, **phải lấy ba lô đè lên chân đèn** để gió không thổi bay xuống hồ.
-    *   Nếu có người dân ở đó, nhờ họ trông chừng giúp 1 xíu.
+👉 **Yên tâm! Đừng cố đặt đèn "đối diện" mặt mẫu. Hãy đặt BÊN CẠNH.**
 
-✅ **Kết quả**: Bạn ở trên cao bắn xuống, đèn ở dưới nổ hắt vào mặt mẫu -> Ảnh sáng đẹp, mặt nước lung linh, góc chụp độc lạ.
+#### 🅰️ Phương Án 1: Ánh sáng "Điêu Khắc" (Ưu Tiên)
+*   **Vị trí chân đèn**: Đặt ngay bên cạnh mẫu (trái hoặc phải đều được), trên cùng mỏm đất đó.
+*   **Hướng đèn**: Chỉnh đầu đèn quay ngang vào tai/má mẫu.
+*   **Hiệu quả**: Khi mẫu ngước lên nhìn bạn, một bên mặt sẽ sáng, bên kia sẽ tối nhẹ (đổ bóng).
+    *   Đây là ánh sáng **Rembrandt** kinh điển.
+    *   Nó làm mặt mẫu thon gọn, mũi cao, nhìn rất "Tây". Đừng cố đánh đèn thẳng mặt (Flat lines) nhìn sẽ bị bẹt dí.
+
+#### 🅱️ Phương Án 2: Bắn Từ Xa (Chỉ dùng khi KHÔNG THỂ đặt chân đèn)
+Nếu mỏm đất quá bé, hoặc sợ gió thổi bay đèn xuống hồ, bạn đành phải gắn đèn lên máy.
+**Bắt buộc setup như sau để đèn chiếu tới**:
+1.  **Tháo Dome tản sáng ra**: Để đầu đèn trần bắn cho xa.
+2.  **Zoom đèn**: Chỉnh tiêu cự đèn (Zoom) lên **105mm** (để gom sáng lại bắn xa hơn).
+3.  **Công suất**: Mạnh nhất **1/1**.
+4.  **Máy ảnh**: Tăng **ISO lên 800 - 1000**. Mở khẩu **f/1.8**.
+-> *Cách này ánh sáng sẽ gắt và xấu hơn, nhưng "có còn hơn không".*
+
+---
+
+## ⚙️ Cài Đặt Kỹ Thuật (Setup Để Bắn Từ Xa)
+
+---
+
+## ⚙️ Cài Đặt Kỹ Thuật (Setup Để Bắn Từ Xa)
+
+---
+
+## ⚙️ Cài Đặt Kỹ Thuật (Setup Để Bắn Từ Xa)
+
+Bạn hỏi: *"Từ xa 6-9 mét bắn tới không? Setting thế nào?"*
+
+### 1. Khoảng cách (Range)
+- **Trả lời**: **DƯ SỨC!**
+- Trigger Godox dùng sóng 2.4G, tầm xa lên tới **100 mét**. 
+- Bạn đứng cách 6-9 mét là "muỗi", bắn xuyên tường còn được. Yên tâm tuyệt đối.
+
+### 2. Cách Cài Đặt (Setting) - Làm ngay tại nhà trước khi đi
+Để Trigger (trên máy) điều khiển được Đèn (trên chân), bạn phải cài đúng khớp nhau:
+
+#### Bước 1: Chỉnh Đèn Godox V1 (Làm Đèn Phụ - Slave)
+1.  Bật nguồn đèn.
+2.  Bấm nút hình **Mũi tên 2 chiều (Wireless)** bên phải.
+3.  Màn hình chuyển sang **MÀU CAM** (hoặc hiện chữ **RX**). Đây là chế độ nhận tín hiệu.
+4.  Chỉnh về: **Channel 1**, **Group A**.
+
+#### Bước 2: Chỉnh Trigger (Làm Đèn Chủ - Master)
+1.  Gắn Trigger lên máy ảnh. Bật nguồn.
+2.  Chỉnh về: **Channel 1**. (Bắt buộc giống đèn).
+3.  Nhìn nút **Group A** trên Trigger, xoay bánh xe chỉnh công suất (ví dụ để **1/16** chụp thử).
+4.  Bấm nút **Test** trên Trigger.
+    *   Nếu Đèn V1 nổ "Bùm" -> **Thành Công**.
+    *   Nếu im re -> Kiểm tra lại Channel và Group xem giống nhau chưa.
+
+#### ⚠️ Lưu ý khi chụp 6-9 mét
+- Đừng để Chân đèn quá xa mẫu. Trigger bắt sóng xa được, nhưng **Ánh sáng đèn thì có hạn**.
+- **Tối ưu**: Chân đèn cách mẫu **1.5 - 3 mét**. Còn Bạn (cầm máy + Trigger) có thể đứng xa mẫu 10-20 mét tùy thích.
 
 ---
 
 ✅ **Chốt Lại Toàn Bộ**:
 *   **Thiết bị**: Godox V1-N (Nikon).
 *   **Phụ kiện**: Dome Diffuser (Chụp màu trắng).
-*   **Điều khiển**: Trigger (Cục kích nổ) + Chân đèn studio.
+*   **Điều khiển**: **CÓ SẴN TRIGGER** (Tuyệt vời!).
+*   **Chiến thuật**:
+    *   **Ưu tiên 1 (Chụp đẹp)**: Gắn Trigger lên máy, để đèn trên chân (Off-camera) đánh xiên 45 độ.
+    *   **Ưu tiên 2 (Chụp nhanh)**: Gắn cả đèn lên máy (On-camera) khi cần di chuyển gấp.
+    *   **Góc độc**: Leo lầu cao, để đèn dưới đất bắn lên (dùng Trigger).
 
 Chúc bạn có bộ ảnh Áo Dài Tết để đời nhé! 🧧
 
