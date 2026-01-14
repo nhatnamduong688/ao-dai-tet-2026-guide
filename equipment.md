@@ -170,26 +170,35 @@ Bạn có đủ bộ (Đèn + Trigger + Chân đèn). Vậy khi nào dùng cái 
     3.  **Khoảng cách**: Đặt cách mẫu tầm 1.5 - 2 mét.
 -   **Hiệu quả**: Ánh sáng sẽ chiếu xiên, tạo bóng đổ nhẹ ở cánh mũi (Rembrandt Light), nhìn cực kỳ nghệ thuật và chuyên nghiệp.
 
-### 4. Góc Chụp "Độc": Từ Trên Cao Chụp Xuống Hồ
-Bạn hỏi: *"Mẫu ngước lên nhìn tôi, sợ dưới đó chật không có chỗ đặt đèn đánh vào mặt mẫu?"*
+### 4. Góc Chụp "Độc": Những Phiến Đá Bước (Hồ Long Nhãn)
+ Bạn đã gửi ảnh xác nhận: Khu vực này là những **phiến đá bước (Stepping Stones)** lô nhô trên mặt nước.
 
-👉 **Yên tâm! Đừng cố đặt đèn "đối diện" mặt mẫu. Hãy đặt BÊN CẠNH.**
+⚠️ **CẢNH BÁO: KHÔNG ĐƯỢC ĐẶT CHÂN ĐÈN Ở ĐÂY!**
+- **Lý do**: Mặt đá gồ ghề, hẹp, lại trơn trượt. Đặt chân đèn studio lên đây 99% sẽ bị đổ xuống hồ -> Hư đèn + Đền tiền.
 
-#### 🅰️ Phương Án 1: Ánh sáng "Điêu Khắc" (Ưu Tiên)
-*   **Vị trí chân đèn**: Đặt ngay bên cạnh mẫu (trái hoặc phải đều được), trên cùng mỏm đất đó.
-*   **Hướng đèn**: Chỉnh đầu đèn quay ngang vào tai/má mẫu.
-*   **Hiệu quả**: Khi mẫu ngước lên nhìn bạn, một bên mặt sẽ sáng, bên kia sẽ tối nhẹ (đổ bóng).
-    *   Đây là ánh sáng **Rembrandt** kinh điển.
-    *   Nó làm mặt mẫu thon gọn, mũi cao, nhìn rất "Tây". Đừng cố đánh đèn thẳng mặt (Flat lines) nhìn sẽ bị bẹt dí.
+👉 **CHIẾN THUẬT THAY THẾ (AN TOÀN & HIỆU QUẢ)**:
 
-#### 🅱️ Phương Án 2: Bắn Từ Xa (Chỉ dùng khi KHÔNG THỂ đặt chân đèn)
-Nếu mỏm đất quá bé, hoặc sợ gió thổi bay đèn xuống hồ, bạn đành phải gắn đèn lên máy.
-**Bắt buộc setup như sau để đèn chiếu tới**:
-1.  **Tháo Dome tản sáng ra**: Để đầu đèn trần bắn cho xa.
-2.  **Zoom đèn**: Chỉnh tiêu cự đèn (Zoom) lên **105mm** (để gom sáng lại bắn xa hơn).
-3.  **Công suất**: Mạnh nhất **1/1**.
-4.  **Máy ảnh**: Tăng **ISO lên 800 - 1000**. Mở khẩu **f/1.8**.
--> *Cách này ánh sáng sẽ gắt và xấu hơn, nhưng "có còn hơn không".*
+#### 🅰️ Cách 1: Đặt Đèn Trên Bờ (Khuyên Dùng)
+Thay vì cố đem đèn ra giữa hồ, hãy để đèn **trên bờ cỏ** (chỗ đất bằng phẳng gần đó nhất).
+1.  **Vị trí**: Đặt chân đèn trên bờ, hướng về phía những phiến đá.
+2.  **Zoom đèn**: Chỉnh Zoom trên đèn V1 lên **85mm** hoặc **105mm**. (Để gom ánh sáng bắn xa hơn ra giữa hồ).
+3.  **Hiệu quả**: Ánh sáng chiếu từ bờ ra sẽ giống như ánh nắng tự nhiên, vừa an toàn cho đèn, vừa đẹp.
+
+#### 🅱️ Cách 2: Nếu Bắt Buộc Mang Ra Giữa Hồ
+Nếu bờ quá xa, bạn chỉ có thể nhờ **người thứ 3** (bạn bè, người dân) cầm chân đèn giúp.
+*   **Tuyệt đối không** để chân đèn tự đứng một mình trên đá.
+
+#### 🅾️ Cách 3: Bắn Từ Trên Cao (Góc Của Bạn)
+Bạn đứng trên lầu bắn xuống.
+*   **Setup**: Gắn đèn lên máy + Tháo tản sáng + Zoom 105mm.
+*   **Lưu ý**: Chấp nhận ánh sáng sẽ hơi "phẳng" (không khối), nhưng bắt trọn được khoảnh khắc mẫu e ấp bên dù tím giữa hồ nước. Nhớ bảo mẫu ngước mặt lên hứng sáng nhé!
+
+#### 🅾️ Phương Án 3: Bắn Từ Xa (GIẢI PHÁP CUỐI CÙNG)
+Gắn đèn lên máy bắn từ lầu cao xuống. Chấp nhận ánh sáng không khối.
+*   **Tháo Dome tản sáng ra**.
+*   **Zoom đèn**: Lên **105mm**.
+*   **Công suất**: MAX **1/1**.
+*   **ISO máy**: **800-1600**.
 
 ---
 
