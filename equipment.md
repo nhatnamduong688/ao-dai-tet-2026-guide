@@ -150,21 +150,48 @@ Bạn đi 1 mình + 1 mẫu + Combo Godox V1 là **Hợp Lý**.
     *   **Đánh Đèn**: Đánh đèn V1 thẳng vào mặt mẫu (lúc này cần cái **Dome Diffuser** trắng trắng để làm mềm). Đèn sẽ giúp mặt mẫu sáng trưng còn bầu trời đằng sau vẫn xanh ngắt.
 *   **Góc chụp**: Cổng tam quan, sân gạch nung, đứng giữa sân lấy toàn cảnh chùa.
 
-### 3. Cắm trên máy hay Để rời?
-Bạn nhắn: *"Tôi có thuê thêm trigger rồi"*. **TUYỆT VỜI!**
+### 3. Cắm trên máy hay Để rời? (Chiến Thuật Sử Dụng)
+Bạn có đủ bộ (Đèn + Trigger + Chân đèn). Vậy khi nào dùng cái nào?
 
-👉 **Bạn có thể chơi "Hệ Ánh Sáng" chuyên nghiệp (Off-Camera) như sau**:
-1.  **Kết nối**: Gắn cục Trigger lên máy ảnh. Bật nguồn cả đèn và trigger. Chỉnh cho cùng Kênh (Channel) và Nhóm (Group).
-2.  **Cách cầm đèn (Tự chụp)**:
-    *   **Tay phải**: Cầm máy ảnh.
-    *   **Tay trái**: Cầm đèn V1 (có gắn Dome trắng), giơ cao lên trời, chếch sang trái hoặc phải 45 độ so với mặt mẫu.
-3.  **Hiệu ứng**: Ánh sáng sẽ chiếu xiên, tạo khối (3D) trên mặt mẫu, nhìn xịn và nghệ thuật hơn hẳn so với việc cắm đèn thẳng lên máy (ánh sáng bị phẳng).
+#### 🅰️ Tình huống 1: Gắn Đèn Trên Máy (On-Camera)
+-   **Khi nào dùng?**:
+    -   Khi bạn phải di chuyển liên tục (ví dụ: chụp mẫu đang đi dạo phố, đi chợ hoa đông đúc).
+    -   Khi không có thời gian setup chân đèn, hoặc sợ vướng víu người đi đường.
+-   **Cách dùng**:
+    -   Gắn đèn lên máy. Bẻ đầu đèn hướng lên trời (nếu có trần/tán cây) hoặc hướng thẳng vào mẫu (nếu ngoài trời nắng - nhớ lắp Dome trắng).
+
+#### 🅱️ Tình huống 2: Để Đèn Trên Chân (Off-Camera) - SIÊU ĐẸP
+-   **Khi nào dùng?**:
+    -   Khi chụp tại một điểm cố định (ví dụ: đứng tạo dáng trước cổng chùa, ngồi ghế đá, đứng bên hồ).
+    -   Khi muốn ảnh có chiều sâu (3D), mặt mẫu có khối V-line, mũi cao.
+-   **Cách đặt chân đèn (Công thức vàng 45 độ)**:
+    1.  **Vị trí**: Đặt chân đèn chếch sang trái (hoặc phải) của mẫu khoảng **45 độ**.
+    2.  **Độ cao**: Kéo chân đèn cao hơn đầu mẫu một chút, chúi đầu đèn xuống.
+    3.  **Khoảng cách**: Đặt cách mẫu tầm 1.5 - 2 mét.
+-   **Hiệu quả**: Ánh sáng sẽ chiếu xiên, tạo bóng đổ nhẹ ở cánh mũi (Rembrandt Light), nhìn cực kỳ nghệ thuật và chuyên nghiệp.
+
+### 4. Góc Chụp "Độc": Từ Trên Cao Chụp Xuống Hồ
+Bạn hỏi: *"Muốn đứng từ trên cao chụp xuống mẫu dưới hồ có được không?"*
+Trả lời: **RẤT ĐƯỢC!** Góc này sẽ lấy được toàn cảnh mặt nước và bóng phản chiếu.
+
+👉 **Cách Setup Đèn (Chiêu này cần Trigger)**:
+1.  **Vị trí Máy (Bạn)**: Bạn đứng ở trên lầu/ban công cao. Gắn **Trigger** lên máy.
+2.  **Vị trí Đèn (V1)**:
+    *   Bạn **KHÔNG** cầm đèn theo (vì xa quá đèn đánh không tới/không đẹp).
+    *   Bạn để đèn V1 trên chân đèn, **đặt ở dưới đất, gần chỗ mẫu đứng** (cách 2 mét).
+    *   Chỉnh đầu đèn hướng lên mặt mẫu.
+3.  **An Toàn (Cực Quan Trọng)**:
+    *   Vì để đèn gần hồ nước, **phải lấy ba lô đè lên chân đèn** để gió không thổi bay xuống hồ.
+    *   Nếu có người dân ở đó, nhờ họ trông chừng giúp 1 xíu.
+
+✅ **Kết quả**: Bạn ở trên cao bắn xuống, đèn ở dưới nổ hắt vào mặt mẫu -> Ảnh sáng đẹp, mặt nước lung linh, góc chụp độc lạ.
+
+---
 
 ✅ **Chốt Lại Toàn Bộ**:
 *   **Thiết bị**: Godox V1-N (Nikon).
 *   **Phụ kiện**: Dome Diffuser (Chụp màu trắng).
-*   **Điều khiển**: Trigger (Cục kích nổ).
-*   **Chiến thuật**: Ưu tiên cầm tay trái (đánh đèn rời) để có ánh sáng đẹp nhất. Nếu mỏi tay thì cắm lên máy "chống cháy".
+*   **Điều khiển**: Trigger (Cục kích nổ) + Chân đèn studio.
 
 Chúc bạn có bộ ảnh Áo Dài Tết để đời nhé! 🧧
 
