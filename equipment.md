@@ -3,24 +3,31 @@
 ## 🎒 Thiết Bị Máy Ảnh
 
 ### Body (Thân máy)
-- **Khuyên dùng**: Full-frame mirrorless (ví dụ: **Sony A7IV**, **Canon R6/R5**, **Nikon Z6II**).
-- **Tại sao**: Full-frame giúp kiểm soát độ sâu trường ảnh (xóa phông) tốt hơn và dải động (dynamic range) rộng hơn, rất quan trọng để tách chủ thể khỏi hậu cảnh lộn xộn ở những nơi như chợ hoa.
+- **Thiết bị hiện có**: **Nikon Z6** (Full-frame Mirrorless).
+- **Đánh giá**: Z6 có khả năng xử lý ISO cao rất tốt, cực kỳ lợi thế khi chụp ở những nơi ánh sáng phức tạp như Chùa hoặc Chợ hoa lúc sáng sớm. Màu da Nikon cũng rất hồng hào, hợp chụp Áo Dài.
 
 ### Ống Kính (Lens)
-1.  **85mm f/1.4 hoặc f/1.8 (Ông vua chân dung)**
+1.  **85mm f/1.8 S (Khuyên dùng)**
     - **Sử dụng**: Chụp chân dung, bán thân.
-    - **Hiệu ứng**: Tạo bokeh "kem mịn", làm nổi bật mẫu. Lý tưởng cho những nơi đông người.
+    - **Hiệu ứng**: Tạo bokeh "kem mịn", làm nổi bật mẫu. Dòng lens S của Z6 cực kỳ nét.
     
-2.  **35mm f/1.4 (Người kể chuyện)**
+2.  **35mm f/1.8 S (Người kể chuyện)**
     - **Sử dụng**: Chụp toàn thân lấy cả bối cảnh (cổng chùa, phố phường).
-    - **Hiệu ứng**: Thêm câu chuyện vào bức ảnh. Cẩn thận không dí quá sát mặt để tránh méo hình.
+    - **Hiệu ứng**: Thêm câu chuyện vào bức ảnh.
 
-3.  **70-200mm f/2.8 (Tùy chọn)**
-    - **Sử dụng**: Chụp candid (tự nhiên) từ xa. Tuyệt vời để bắt khoảnh khắc nụ cười tự nhiên mà không làm mẫu ngại.
+### Ánh Sáng & Trigger (Dựa trên list thuê của bạn)
+- **Flash Trigger (Khuyên dùng)**:
+    - **Chọn ngay: STT 9 - Trigger Godox X2T Nikon (50k/ngày)**.
+    - **Lý do**: Đây là dòng mới hơn X1T (STT 8). Các nút bấm chia nhóm (A, B, C...) nằm ngay trên mặt, chỉnh công suất cực nhanh. X1T chỉnh rất lâu và màn hình khó nhìn. Chênh lệch 20k là hoàn toàn xứng đáng.
 
-### Ánh Sáng
-- **Hắt sáng (5-in-1)**: Cực kỳ cần thiết. Dùng mặt **Trắng** để bù sáng nhẹ hoặc mặt **Vàng** để tạo tone màu ấm áp, nắng chiều.
-- **Đèn Flash (Rời)**: Chỉ dùng nếu chụp dưới nắng gắt giữa trưa hoặc ngược sáng mạnh.
+- **Đèn Chụp (Nếu thuê đèn)**:
+    - **Chọn: STT 1 - Godox AD600 (300k/ngày)**.
+    - **Lý do**: Đây là đèn dùng **Pin** (Battery powered).
+    - Vì bạn đi chụp ngoại cảnh (Chùa, Chợ hoa, Phố cổ) thì **không thể** dùng QT600II hay QS400II (STT 2, 3) được vì bọn đó phải cắm điện tường 220V mới chạy.
+    - AD600 công suất lớn, đủ sức "đánh bại" ánh sáng mặt trời lúc giữa trưa (High Speed Sync), giúp trời vẫn xanh mà mặt mẫu vẫn sáng đẹp.
+
+- **Hắt sáng (5-in-1)**: Cực kỳ cần thiết để bù sáng mặt khi chụp ngược nắng.
+
 
 ---
 
