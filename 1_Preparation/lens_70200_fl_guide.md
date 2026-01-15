@@ -25,13 +25,19 @@ tóc thay vì mắt, bạn chỉ cần vặn nhẹ vòng nét là xong.
     *   `SPORT`: Dùng cho chủ thể chuyển động cực nhanh và bất định hướng (cầu thủ bóng đá, chim bay).
     *   `OFF`: Tắt chống rung. Chỉ tắt khi bạn gắn máy cố định lên chân máy (Tripod). Cầm tay thì LUÔN BẬT.
 
-### 4. Các Nút Tròn Trên Đầu Ống Kính (Focus Function Buttons)
-*   Trên vòng đầu ống kính có 4 nút cao su tròn tròn.
-*   **Mặc định**: Nó là nút **AF-Lock** (Khóa nét) hoặc **AF-On** (Kích hoạt lấy nét).
-*   **Lời khuyên**: Nếu chưa quen dùng nút này, bạn có thể **bỏ qua**. Cứ dùng nút chụp hoặc nút AF-On trên body máy ảnh là đủ quen thuộc rồi.
+### 4. Nút Chức Năng (Focus Function Buttons) & Công Tắc `AF-L | OFF | AF-ON`
+*   **Vị trí**: 4 nút tròn cao su ở đầu ống kính + 1 công tắc gạt `AF-L | OFF | AF-ON` ở gần đuôi lens.
+*   **Cách dùng**: Công tắc này quyết định 4 cái nút kia làm gì:
+    *   **`AF-L` (Khóa nét)**: Khi bấm giữ nút tròn, máy sẽ **KHÓA** lấy nét tại điểm hiện tại (dù bạn có nhấp cò chụp tiếp nó cũng không lấy nét lại). Dùng khi bạn lấy nét vào mắt mẫu xong muốn bố cục lại khung hình mà sợ mất nét.
+    *   **`AF-ON` (Kích hoạt AF)**: Nút tròn sẽ hoạt động y hệt nút AF-ON trên body. Bấm để lấy nét.
+    *   **`OFF`**: Tắt 4 nút này đi.
+*   **Lời khuyên**:
+    *   Nếu tay bạn to, hay cầm nhầm vào đầu ống kính -> **Gạt về `OFF`** cho đỡ bấm nhầm.
+    *   Nếu bạn thích "Focus & Recompose" (Lấy nét rồi bố cục lại) -> **Gạt về `AF-L`**.
 
 ---
 **Tóm tắt Settings Lens 70-200 FL:**
 1.  Focus: **M/A**.
 2.  Range: **FULL**.
 3.  VR: **NORMAL**.
+4.  Function: **OFF** (hoặc AF-L).
