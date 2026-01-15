@@ -4,14 +4,20 @@ Chào mừng bạn đến với bộ tài liệu hướng dẫn cho dự án ch�
 
 ## 📂 Các Mục Hướng Dẫn
 
-- **[📷 Thiết Bị & Đạo Cụ](./equipment.md)**
-  *Gợi ý về máy ảnh, ống kính, ánh sáng và các đạo cụ cần thiết.*
+- **[📷 Chuẩn Bị Thiết Bị](./1_Preparation/gear_list.md)** & **[Setup](./1_Preparation/setup_guide.md)**
+  *Gợi ý về máy ảnh, ống kính, ánh sáng và cách kết nối.*
 
-- **[📍 Địa Điểm & Thời Gian](./locations.md)**
-  *Những địa điểm đẹp nhất mang đậm không khí Tết (Chùa, Chợ hoa) và thời gian chụp lý tưởng.*
+- **[📍 Chiến Thuật Địa Điểm](./2_Shooting/location_strategy.md)**
+  *Những địa điểm đẹp nhất tại Nam Thiên Nhất Trụ và cách xử lý ánh sáng.*
 
-- **[💃 Tạo Dáng & Góc Chụp](./posing.md)**
+- **[💃 Tạo Dáng & Góc Chụp](./2_Shooting/posing_guide.md)**
   *Hướng dẫn tạo dáng với Áo Dài: đặt tay, chuyển động và các góc chụp đẹp.*
+
+- **[⚙️ Cheat Sheet Thông Số](./2_Shooting/cheat_sheet.md)**
+  *Bảng thông số nhanh cho các tình huống ánh sáng khác nhau.*
+
+- **[⚠️ An Toàn & Văn Hóa](./3_Safety/safety_checklist.md)**
+  *Lưu ý an toàn quan trọng khi chụp tại chùa.*
 
 ## 🏮 Mẹo Nhanh Để Có Bộ Ảnh Thành Công
 

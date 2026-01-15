@@ -210,35 +210,106 @@ Gắn đèn lên máy bắn từ lầu cao xuống. Chấp nhận ánh sáng kh�
 
 ---
 
-## ⚙️ Cài Đặt Kỹ Thuật (Setup Để Bắn Từ Xa)
+---
 
-Bạn hỏi: *"Từ xa 6-9 mét bắn tới không? Setting thế nào?"*
+## 🎛️ BẢNG CÔNG THỨC CHỤP (CHEAT SHEET)
 
-### 1. Khoảng cách (Range)
-- **Trả lời**: **DƯ SỨC!**
-- Trigger Godox dùng sóng 2.4G, tầm xa lên tới **100 mét**. 
-- Bạn đứng cách 6-9 mét là "muỗi", bắn xuyên tường còn được. Yên tâm tuyệt đối.
+Đã kết nối xong. Giờ chỉnh thông số thế nào để chụp một phát ăn ngay?
+Hãy để máy về chế độ **M (Manual)** và chỉnh theo bảng này:
 
-### 2. Cách Cài Đặt (Setting) - Làm ngay tại nhà trước khi đi
-Để Trigger (trên máy) điều khiển được Đèn (trên chân), bạn phải cài đúng khớp nhau:
+### 1. Trường Hợp: Ngoài Trời Nắng / Ngược Nắng
+*   **Mục tiêu**: Bầu trời xanh, mẫu sáng đẹp, mờ phông.
+*   **Máy Ảnh**:
+    *   **Chế độ**: M.
+    *   **Khẩu độ**: **f/2.8** (Đỡ rối background).
+    *   **Tốc độ**: **1/1000s - 1/8000s** (Bắt buộc bật HSS trên Trigger).
+    *   **ISO**: **100**.
+*   **Đèn (Chỉnh trên Trigger)**:
+    *   **Công suất**: Mạnh. Thử từ **1/4** đến **1/1**.
+*   **Lưu ý**: HSS (High Speed Sync) là chìa khóa. Nếu ảnh bị sọc đen -> Chưa bật HSS hoặc tốc độ máy chưa đủ cao.
 
-#### Bước 1: Chỉnh Đèn Godox V1 (Làm Đèn Phụ - Slave)
-1.  Bật nguồn đèn.
-2.  Bấm nút hình **Mũi tên 2 chiều (Wireless)** bên phải.
-3.  Màn hình chuyển sang **MÀU CAM** (hoặc hiện chữ **RX**). Đây là chế độ nhận tín hiệu.
-4.  Chỉnh về: **Channel 1**, **Group A**.
+### 2. Trường Hợp: Trong Bóng Râm / Hiên Chùa / Trời Mát
+*   **Mục tiêu**: Ánh sáng dịu dàng, tự nhiên.
+*   **Máy Ảnh**:
+    *   **Chế độ**: M.
+    *   **Khẩu độ**: **f/2.8** - f/4.
+    *   **Tốc độ**: **1/160s - 1/200s**.
+    *   **ISO**: **200 - 400**.
+*   **Đèn (Chỉnh trên Trigger)**:
+    *   **Công suất**: Nhẹ. Thử từ **1/64** đến **1/16**.
+*   **Lưu ý**: Đừng để đèn gắt quá làm mặt mẫu bị bóng dầu.
 
-#### Bước 2: Chỉnh Trigger (Làm Đèn Chủ - Master)
-1.  Gắn Trigger lên máy ảnh. Bật nguồn.
-2.  Chỉnh về: **Channel 1**. (Bắt buộc giống đèn).
-3.  Nhìn nút **Group A** trên Trigger, xoay bánh xe chỉnh công suất (ví dụ để **1/16** chụp thử).
-4.  Bấm nút **Test** trên Trigger.
-    *   Nếu Đèn V1 nổ "Bùm" -> **Thành Công**.
-    *   Nếu im re -> Kiểm tra lại Channel và Group xem giống nhau chưa.
+### 3. Quy Tắc "Thừa/Thiếu" (Tinh Chỉnh Nhanh)
+*   **Ảnh Mẫu Tối?** -> Tăng công suất đèn (Vặn bánh xe Trigger sang phải: 1/32 -> 1/16).
+*   **Ảnh Mẫu Cháy Sáng (Trắng bệch)?** -> Giảm công suất đèn (Vặn sang trái: 1/16 -> 1/32).
+*   **Vẫn Tối/Sáng quá dù đã chỉnh đèn?** -> Chỉnh **ISO** trên máy (Tăng ISO = Sáng hơn).
 
-#### ⚠️ Lưu ý khi chụp 6-9 mét
-- Đừng để Chân đèn quá xa mẫu. Trigger bắt sóng xa được, nhưng **Ánh sáng đèn thì có hạn**.
-- **Tối ưu**: Chân đèn cách mẫu **1.5 - 3 mét**. Còn Bạn (cầm máy + Trigger) có thể đứng xa mẫu 10-20 mét tùy thích.
+---
+
+## ⚡ CÁCH BẬT HSS (QUAN TRỌNG NHẤT)
+Bạn hỏi: *"Chỉ tôi bật HSS trên Trigger X1"*
+👉 Với **Nikon**, bí mật không nằm ở cái Trigger, mà nằm trong **Menu Máy Ảnh**. Làm theo đúng 3 bước này:
+
+1.  **Trên máy Nikon Z6**:
+    *   Bấm nút **MENU**.
+    *   Chọn hình cây bút chì (**Custom Setting Menu**).
+    *   Chọn mục **e. Bracketing/flash**.
+    *   Chọn dòng **e1. Flash sync speed**.
+    *   👉 Chọn: **1/200 s (Auto FP)** (Hoặc 1/250s Auto FP).
+    *   *Lưu ý: Phải có chữ **(Auto FP)** thì HSS mới chạy.*
+
+2.  **Trên Trigger X1**:
+    *   Khi bạn chụp tốc độ cao (ví dụ 1/1000s), nhìn lên màn hình Trigger.
+    *   Nếu thấy hiện biểu tượng **chữ H có tia sét** nhỏ xíu -> **Đã kích hoạt thành công**.
+
+3.  **Tại sao cần làm vậy?**:
+    *   Nếu không bật **Auto FP**, máy sẽ khóa tốc độ ở 1/200s. Trời nắng thì ảnh sẽ trắng xóa (cháy sáng).
+    *   Bật xong, bạn tha hồ đẩy tốc lên 1/4000s, 1/8000s để trời xanh ngắt.
+
+---
+
+## 🔇 CÁC CÀI ĐẶT PHỤ NHƯNG QUAN TRỌNG (PRO TIPS)
+
+Bạn hỏi: *"Còn setting nào quan trọng không?"* -> **CÒN 3 CÁI NÀY NỮA**:
+
+### 1. Tắt Tiếng "Bíp" (BEEP) - Cực Quan Trọng Ở Chùa
+*   **Vấn đề**: Mặc định đèn Godox nổ xong/hồi pin xong sẽ kêu "Bíp" rất to. Ở chùa yên tĩnh mà cứ "Bíp Bíp" liên tục rất vô duyên, dễ bị nhắc nhở.
+*   **Cách tắt (Trên Trigger X1)**:
+    *   Tìm nút **C.Fn** (hoặc vào Menu).
+    *   Tìm mục có hình **Cái Loa**.
+    *   Chuyển sang **OFF**.
+*   **Hoặc Tắt trên Đèn AD200**:
+    *   Bấm nút **C.Fn** (nút Menu).
+    *   Tìm hình cái loa -> **OFF**.
+
+### 2. Đèn Dẫn Hướng (Modeling Light) - Hỗ Trợ Lấy Nét
+*   **Khi nào dùng**: Khi trời nhá nhem tối hoặc trong góc tối, máy ảnh khó lấy nét vào mặt mẫu.
+*   **Cách dùng**:
+    *   Trên đèn AD200Pro: Bấm nút hình **Cái Bóng Đèn**.
+    *   Đèn sẽ sáng liên tục (như đèn pin) giúp bạn nhìn thấy đường mà chụp.
+    *   *Lưu ý: Tốn pin, dùng xong nhớ tắt.*
+
+### 3. Kiểm Tra Chế Độ (Mode)
+*   Nhìn lên màn hình Trigger X1, đảm bảo Nhóm A đang ở chế độ **M** (Manual).
+*   Nếu thấy chữ **TTL**: Bấm nút **MODE** chuyển ngay về **M**.
+*   *Lý do: TTL là tự động, chụp lúc sáng lúc tối rất khó chịu. Dùng M để ổn định 100%.*
+
+---
+
+## 🟢 ĐƠN GIẢN HÓA MỌI THỨ: CHỈ CẦN XOAY BÁNH XE
+Bạn hỏi: *"Việc còn lại chỉ là chỉnh công suất thôi đúng không?"*
+👉 **CHÍNH XÁC 100%!**
+
+Sau khi đã setup xong (Kênh, Nhóm, HSS, Mode M), thì trong suốt buổi chụp bạn chỉ cần làm đúng 1 thao tác duy nhất:
+1.  **Chụp thử 1 tấm**.
+2.  **Nhìn ảnh**:
+    *   Tối quá -> Xoay bánh xe trên Trigger sang Phải (Tăng công suất).
+    *   Sáng quá -> Xoay bánh xe trên Trigger sang Trái (Giảm công suất).
+3.  **Chụp tiếp**.
+
+Đơn giản vậy thôi! Đừng suy nghĩ phức tạp. Cứ xoay và chụp.
+
+---
 
 ---
 
@@ -262,3 +333,32 @@ Chúc bạn có bộ ảnh Áo Dài Tết để đời nhé! 🧧
 - [ ] **Bao Lì Xì**: Cầm xòe như quạt hoặc động tác trao lì xì.
 - [ ] **Quạt Cổ**: Quạt gỗ hoặc quạt giấy.
 - [ ] **Sách/Thư Pháp**: Tạo nét nho nhã nếu chụp ở Văn Miếu.
+
+---
+
+## 🛑 LỜI DẶN DÒ CUỐI CÙNG (Sống Còn)
+
+Bạn nói rất đúng, còn nhiều thứ phải lo lắm. Đây là Checklist "bảo hiểm" cho buổi chụp của bạn:
+
+### 1. An Toàn Thiết Bị (Tại Chùa & Hồ Nước)
+*   **Quy tắc 3 giây**: Khi dựng chân đèn lên, hãy đứng nhìn nó 3 giây xem có rung rinh không. Nếu có -> **Dẹp ngay**, chuyển sang cầm tay.
+*   **Trọng lượng**: Luôn treo ba lô máy ảnh vào trục giữa của chân đèn để làm đối trọng. Gió thổi bay đèn là chuyện thường ở huyện.
+*   **Nước**: Chụp ở hồ Long Nhãn, dây đeo máy ảnh quấn chặt vào cổ tay. Đừng cầm hớ hênh.
+
+### 2. Văn Hóa Khi Đi Chùa (Quan Trọng)
+*   **Trang phục**: Áo dài phải kín đáo. Không mặc xuyên thấu phản cảm vào chốn tôn nghiêm.
+*   **Flash**: **Tuyệt đối KHÔNG đánh Flash trong Chánh Điện** (nơi thờ tự chính). Chỉ chụp Flash ở sân vườn, hành lang bên ngoài.
+*   **Giữ trật tự**: Đi nhẹ, nói khẽ. Đừng hô hào chỉ đạo mẫu to tiếng quá.
+
+### 3. Pin & Thẻ Nhớ
+*   **Đèn V1**: Pin trâu, nhưng nếu đánh full công suất liên tục sẽ nóng và hồi lâu. Hãy chụp nhịp nhàng.
+*   **Thẻ nhớ**: Nikon Z6 file rất nặng. Hãy chắc chắn thẻ của bạn còn trống ít nhất 32GB.
+
+### 4. Cheat Sheet (Cứu Cánh Nhanh)
+*   **Nắng gắt**: Bật HSS + Zoom 105mm.
+*   **Ngược nắng**: Mẫu tối thui -> Đánh đèn thẳng mặt.
+*   **Trong nhà**: Xoay đèn lên trần.
+*   **Bí quá**: Chuyển về chế độ P (Program) hoặc Auto, để máy tự tính, còn mình tập trung bắt khoảnh khắc.
+
+Chúc bạn có một buổi chụp hình **An Toàn - Văn Minh - Ảnh Đẹp**! Hẹn gặp lại bộ ảnh của bạn trên Facebook! 🧧📸
+
