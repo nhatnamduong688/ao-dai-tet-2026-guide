@@ -7,6 +7,8 @@ Mình đã chia nhỏ thành từng phần để bạn dễ tra cứu trên đi�
 
 ### [1. Danh Sách Thiết Bị (Gear List)](./1_Preparation/gear_list.md)
 *   Xác nhận lại toàn bộ "súng ống" bạn mang theo.
+*   **[MỚI]** **[Cài đặt Z6 chụp Flash](./1_Preparation/z6_flash_settings.md)**: Chỉnh Raw, Drive Mode, tắt Silent.
+*   **[MỚI]** **[Hướng dẫn Lens 70-200 FL](./1_Preparation/lens_70200_fl_guide.md)**: Giải thích các nút gạt trên lens.
 
 ### [2. Hướng Dẫn Kết Nối & Setup](./1_Preparation/setup_guide.md)
 *   **Đọc ngay ở nhà**. Cách kết nối FTZ, Trigger X1, Đèn AD200Pro. Cách bật HSS.
