@@ -27,17 +27,18 @@ tóc thay vì mắt, bạn chỉ cần vặn nhẹ vòng nét là xong.
 
 ### 4. Nút Chức Năng (Focus Function Buttons) & Công Tắc `AF-L | OFF | AF-ON`
 *   **Vị trí**: 4 nút tròn cao su ở đầu ống kính + 1 công tắc gạt `AF-L | OFF | AF-ON` ở gần đuôi lens.
-*   **Cách dùng**: Công tắc này quyết định 4 cái nút kia làm gì:
-    *   **`AF-L` (Khóa nét)**: Khi bấm giữ nút tròn, máy sẽ **KHÓA** lấy nét tại điểm hiện tại (dù bạn có nhấp cò chụp tiếp nó cũng không lấy nét lại). Dùng khi bạn lấy nét vào mắt mẫu xong muốn bố cục lại khung hình mà sợ mất nét.
-    *   **`AF-ON` (Kích hoạt AF)**: Nút tròn sẽ hoạt động y hệt nút AF-ON trên body. Bấm để lấy nét.
-    *   **`OFF`**: Tắt 4 nút này đi.
-*   **Lời khuyên**:
-    *   Nếu tay bạn to, hay cầm nhầm vào đầu ống kính -> **Gạt về `OFF`** cho đỡ bấm nhầm.
-    *   Nếu bạn thích "Focus & Recompose" (Lấy nét rồi bố cục lại) -> **Gạt về `AF-L`**.
+*   **Cách dùng**: Công tắc này quyết định 4 cái nút kia làm gì.
+
+### 5. Câu Hỏi: Lỡ Tay Bấm Nhầm Vào 4 Nút Này Có Sao Không?
+*   **Nếu công tắc đang ở `OFF`**: -> **KHÔNG SAO CẢ**. Bạn bấm mỏi tay cũng không ảnh hưởng gì. Nút đã bị vô hiệu hóa.
+*   **Nếu công tắc đang ở `AF-L`**: -> **CÓ SAO**. Máy sẽ bị khóa nét (Focus Lock). Bạn nhấp cò chụp mà thấy máy không chịu lấy nét lại thì đích thị là do chức năng này.
+*   **Nếu công tắc đang ở `AF-ON`**: -> **CÓ SAO**. Máy sẽ tự động lấy nét lại vào chỗ khác, làm hỏng bố cục bạn đang ngắm.
+
+👉 **KẾT LUẬN CỨNG**: Vì bạn chưa quen thiết bị, **HÃY GẠT VỀ `OFF` NGAY VÀ LUÔN**. An toàn là trên hết!
 
 ---
 **Tóm tắt Settings Lens 70-200 FL:**
 1.  Focus: **M/A**.
 2.  Range: **FULL**.
 3.  VR: **NORMAL**.
-4.  Function: **OFF** (hoặc AF-L).
+4.  Function: **OFF** (AN TOÀN NHẤT).
